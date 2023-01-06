@@ -71,5 +71,5 @@ If you are interested in contributing to the MarketPlace project, please follow 
 
 ## Design
 
-![Screenshot 2023-01-04 230344![Screenshot 2023-01-04 230444](https://user-images.githubusercontent.com/105584546/211039487-0b84e288-fca1-4060-bb09-b0d0ca717c8a.jpg)
+![Screenshot 2023-01-04 230344](https://user-images.githubusercontent.com/105584546/211040581-8cc5df2b-5293-4d07-b986-a28636e45202.jpg)
 

@@ -56,15 +56,15 @@ You will also need to set up accounts with the following services to use their A
 * Stripe
 Once you have these prerequisites installed and accounts set up with the necessary services, you can follow the steps below to set up the application:
 
-Clone the repository to your local machine using git clone https://github.com/odedmasala/MarketPlace_app.git.
-Navigate to the root directory of the project get inside to the server folder and create a file named .env to store the environment variables.
-Set the values for the environment variables in the .env file.
-Navigate to the root directory of the project and install the dependencies for both the server and client using npm install in the server and client folders respectively.
-Open a new terminal and split it, in each split terminal run one of the server and client files and run both files and start the application using npm start.
-The application should now be running on http://localhost:3000 and the server in http://localhost:8001 or port you can Choose..
-Contributing
+1.Clone the repository to your local machine using git clone https://github.com/odedmasala/MarketPlace_app.git.
+2.Navigate to the root directory of the project get inside to the server folder and create a file named .env to store the environment variables.
+3.Set the values for the environment variables in the .env file.
+4.Navigate to the root directory of the project and install the dependencies for both the server and client using npm install in the server and client folders respectively.
+5.Open a new terminal and split it, in each split terminal run one of the server and client files and run both files and start the application using npm start.
+6.The application should now be running on http://localhost:3000 and the server in http://localhost:8001 or port you can Choose..
+## Contributing
 If you are interested in contributing to the MarketPlace project, please follow these guidelines:
 
-Fork the repository and create a new branch for your changes.
-Make your changes and commit them to your branch.
-Open a pull request and provide a clear and concise description of your changes.
+* Fork the repository and create a new branch for your changes.
+* Make your changes and commit them to your branch.
+* Open a pull request and provide a clear and concise description of your changes.

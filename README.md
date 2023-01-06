@@ -1,39 +1,39 @@
 # MarketPlace app
 #one
 
-MarketPlace (B2C App)
+#MarketPlace (B2C App)
 Welcome to MarketPlace, a B2C (Business-to-Consumer) application built using the MERN (MongoDB, Express, React, Node.js) stack and authentication libraries such as formik and State management such as the redux toolkit.
 
-Project Description
+##Project Description
 This project was completed as a group effort to build a functioning B2C application with authentication and authorization features. The goal was to gain experience in working as a team to develop a complex application and learn how to implement these features in a web application.
 
 The user interface of the application was designed using tailwindcss, a utility-first CSS framework. This allowed for a clean and efficient design process, resulting in a professional and user-friendly interface.
 
-Notable Features
-Authentication: Users are able to create accounts and log in to the application using formik for form validation and state management. The application also supports third-party authentication using Google and Facebook.
+##Notable Features
+* Authentication: Users are able to create accounts and log in to the application using formik for form validation and state management. The application also supports third-party authentication using Google and Facebook.
 
-Authorization: The application implements various levels of authorization to ensure that only certain users have access to certain features. This helps to maintain security and prevent unauthorized access.
+* Authorization: The application implements various levels of authorization to ensure that only certain users have access to certain features. This helps to maintain security and prevent unauthorized access.
 
-Team development: The application was developed by a team, allowing for the sharing of knowledge and skills and the creation of a cohesive product.
+* Team development: The application was developed by a team, allowing for the sharing of knowledge and skills and the creation of a cohesive product.
 
-Environment Variables
+##Environment Variables
 The following environment variables are used in the MarketPlace project:
 
-GOOGLE_CLIENT_ID: The client ID for Google authentication.
-GOOGLE_CLIENT_SECRET: The client secret for Google authentication.
-FACEBOOK_APP_ID: The app ID for Facebook authentication.
-FACEBOOK_APP_SECRET: The app secret for Facebook authentication.
-SID: The SID for Twilio integration.
-AUTH_TOKEN: The authentication token for Twilio integration.
-CLOUDINARY_CLOUD_NAME: The Cloudinary cloud name for image hosting.
-CLOUDINARY_API_KEY: The Cloudinary API key for image hosting.
-CLOUDINARY_API_SECRET: The Cloudinary API secret for image hosting.
-STRIPE_KEY: The Stripe API key for payment processing.
-PORT: The port on which the server should run.
-MONGO_URL: The URL for the MongoDB database.
-CLIENT_URL: The URL for the client-side application.
-Possible Improvements
-There are always opportunities for improvement in any project. Some possible areas for improvement in MarketPlace could include:
+*GOOGLE_CLIENT_ID: The client ID for Google authentication.
+*GOOGLE_CLIENT_SECRET: The client secret for Google authentication.
+*FACEBOOK_APP_ID: The app ID for Facebook authentication.
+*FACEBOOK_APP_SECRET: The app secret for Facebook authentication.
+*SID: The SID for Twilio integration.
+*AUTH_TOKEN: The authentication token for Twilio integration.
+*CLOUDINARY_CLOUD_NAME: The Cloudinary cloud name for image hosting.
+*CLOUDINARY_API_KEY: The Cloudinary API key for image hosting.
+*CLOUDINARY_API_SECRET: The Cloudinary API secret for image hosting.
+*STRIPE_KEY: The Stripe API key for payment processing.
+*PORT: The port on which the server should run.
+*MONGO_URL: The URL for the MongoDB database.
+*CLIENT_URL: The URL for the client-side application.
+*Possible Improvements
+*There are always opportunities for improvement in any project. Some possible areas for *improvement in MarketPlace could include:
 
 Adding more features: There are many additional features that could be added to the application, such as the ability to leave reviews, make purchases, or send messages.
 

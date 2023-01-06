@@ -68,3 +68,9 @@ If you are interested in contributing to the MarketPlace project, please follow 
 * Fork the repository and create a new branch for your changes.
 * Make your changes and commit them to your branch.
 * Open a pull request and provide a clear and concise description of your changes.
+
+## Design ![Screenshot 2023-01-04 230521](https://user-images.githubusercontent.com/105584546/211039542-ffb45050-221f-4568-adc2-c908001bcadc.jpg)
+
+![Screenshot 2023-01-04 230344![Screenshot 2023-01-04 230444](https://user-images.githubusercontent.com/105584546/211039487-0b84e288-fca1-4060-bb09-b0d0ca717c8a.jpg)
+](https://user-images.githubusercontent.com/105584546/211039456-99d92dfb-e112-4342-b80d-6e7b37790790.jpg)
+
